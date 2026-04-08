@@ -18,6 +18,6 @@ nb= st.navigation({
     'Useful links':[contact_page]
     })
 
-st.logo("assets\logo.jpeg")
+st.logo("assets/logo.jpeg")
 st.sidebar.text("Powered by : Kirtika Mittal")
 nb.run()
