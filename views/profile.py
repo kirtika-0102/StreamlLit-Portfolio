@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("Profile")
 col1,col2,col3 = st.columns(3)
-col1.image("assets/logo.jpeg",width=200)
+col1.image("assets/logo.jpeg",width=100)
 
 df = pd.DataFrame({
     "Project": ["Alpha", "Beta", "Gamma"],
